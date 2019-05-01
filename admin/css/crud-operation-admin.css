@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #message{
+ 	padding: 10px;
+ }
+ .no-record{
+ 	text-align: center;
+ 	font-size: 15px;
+ }
+ .btn {
+  background-color: #4CAF50; /* Green */
+  border: none ;
+  color: white ;
+  padding: 6px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
